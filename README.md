@@ -8,6 +8,7 @@ II. Generate and use your own custom dataset
     ○	the dimensions of the input should be larger than 5. 
     ○	Input and output can be limited/unlimited, discrete/continuous, whatever. 
     ○ Your output should also be time dependent.
+
 ■	For instance, Y(t) = X(t)^2 + X(t)/2 - X(t-2) + 3X(t-1)
   ●	Generate training (more than 10,000 samples) and testing datasets (more than 2,000 samples) based on your function.
 
